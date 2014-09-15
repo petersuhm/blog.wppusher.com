@@ -10,3 +10,6 @@
 /* =Theme customization starts here
 -------------------------------------------------------------- */
 
+body:before {
+    background-color: #34495e;
+}
