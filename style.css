@@ -13,3 +13,7 @@
 body:before {
     background-color: #34495e;
 }
+
+.entry-format-badge {
+    background-color: #428bca;
+}
