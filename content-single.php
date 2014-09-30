@@ -42,9 +42,12 @@ $formats = get_theme_support( 'post-formats' );
     <section class="email-form">
         <h4>Get an e-mail when WP Pusher is ready</h4>
 
-        <form>
-            <input type="text"><br><br>
-            <input type="submit" value="Yes, please!">
+        <form action="//wppusher.us9.list-manage.com/subscribe/post?u=514158db7871a8d4e9a558963&amp;id=3baab10369" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+            <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Enter your email"><br><br>
+            <div style="position: absolute; left: -5000px;"><input type="text" name="b_514158db7871a8d4e9a558963_3baab10369" tabindex="-1" value=""></div>
+            <input type="submit" value="Yes, please!" name="subscribe" id="mc-embedded-subscribe">
+            <br><br>
+            <input type="checkbox" value="1" name="group[11621][1]" id="mce-group[11621]-11621-0"> I want to help test WP Pusher and get early access
         </form>
     </section>
 
