@@ -20,6 +20,11 @@ a:active {
     color: #428bca;
 }
 
+section.email-form {
+    border-top: 15px double #f5f5f5;
+    padding: 20px 20px;
+}
+
 .entry-format-badge {
     background-color: #428bca;
 }

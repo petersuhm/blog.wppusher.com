@@ -39,7 +39,7 @@ $formats = get_theme_support( 'post-formats' );
         ?>
     </div><!-- .entry-content -->
 
-    <section>
+    <section class="email-form">
         <h4>Get an e-mail when WP Pusher is ready</h4>
 
         <form>
